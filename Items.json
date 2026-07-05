@@ -1,0 +1,7257 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 41,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un antico libro dall'aspetto sinistro, rilegato in una grottesca pelle.'\nAvverti un irresistibile impulso di leggerlo.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 3,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 186,
+        "itypeId": 2,
+        "name": "Libro antico",
+        "note": "",
+        "occasion": 2,
+        "price": 50,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 2,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un libro con le copertine finemente decorate.'\n Il libro emana una certa dignità.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 260,
+        "itypeId": 2,
+        "name": "Libro dei Ricordi Dimenticati",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 3,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Il libro contiene ricete di vari piatti a base di carne.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 6,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Ricette del XV secolo",
+        "note": "<Item Recipe: 14>\n<Item Recipe: 41>\n<Item Recipe: 62>\n<Item Recipe: 63>\n<Item Recipe: 70>\n<Item Recipe: 168>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 4,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una perfetta collezione di lettere d'amore scritte\ndal leggendario eroe Ronn Chambara.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 7,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Poesie d'amore e tormento'",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 5,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un bastone avvolto da stracci per prolungarne la combustione\nSe usato, rallenta gli effetti dell'oscurità.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 1,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 175,
+        "itypeId": 1,
+        "name": "Torcia",
+        "note": "<Synthesis Ingredients>\nitem 7\nitem 27\nitem 8\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 6,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 2,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 108,
+        "itypeId": 1,
+        "name": "Torcia",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 7,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Usata per accendere un falò.\n La luce ed il calore e tiene a bada la tua sanità",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 185,
+        "itypeId": 1,
+        "name": "Scatola di fiammiferi",
+        "note": "<Item Recipe: 5>",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 8,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "La stoffa può essere avvolta tra le ferite\nper smettere di sanguinare.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 184,
+        "itypeId": 1,
+        "name": "Pezzo di stoffa",
+        "note": "<Synthesis Ingredients>\narmor 7\n</Synthesis Ingredients>\n<Item Recipe: 5>",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 9,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una piccola fiala. Tipicamente usata per l'alchemia.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 183,
+        "itypeId": 1,
+        "name": "Fiala di vetro",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 10,
+        "animationId": 99,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 4,
+            "formula": "100",
+            "type": 1,
+            "variance": 20
+        },
+        "description": "Una fiala piena di liquido torbido.\nAltamente infiammabile.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 75,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 182,
+        "itypeId": 1,
+        "name": "Fiala torbida",
+        "note": "<Synthesis Ingredients>\nitem 11\nitem 12\n</Synthesis Ingredients>",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 2,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 11,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena di liquido nero.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 182,
+        "itypeId": 1,
+        "name": "Fiala nera",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 12,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena d'olio. Altamente infiammabile.'",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 182,
+        "itypeId": 1,
+        "name": "Olio",
+        "note": "\n",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 13,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Un libro contenente ricette per principianti in alchemia",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 16,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Alchemillia vol. 2",
+        "note": "<Item Recipe: 10>\n<Item Recipe: 52>\n<Item Recipe: 53>\n<Item Recipe: 61>\n<Item Recipe: 78>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 14,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Pasticcio di carne, facile da fare.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 179,
+        "itypeId": 1,
+        "name": "Pasticcio di carne",
+        "note": "<Synthesis Ingredients>\nitem 15\nitem 16\nitem 17\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 15,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un uovo. Che appartenga a un uccello o a un rettile\n è difficile dirlo.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 178,
+        "itypeId": 1,
+        "name": "Uovo",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 16,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Strisce di carne essicate, per prevenirne la scadenza.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 177,
+        "itypeId": 1,
+        "name": "Carne essiccata",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 17,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Farina di grano, destinato all'alimentazione umana'.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Farina di grano",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 18,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Ordini redatti dal capitano a capo dei\ndungeons di Fear and Hunger.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 8,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 187,
+        "itypeId": 2,
+        "name": "Ordini del Capitano",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 96,
+        "tpGain": 0
+    },
+    {
+        "id": 19,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una lista di tutti i detenuti rinchiusi\nin questi dungeons.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 9,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 187,
+        "itypeId": 2,
+        "name": "Lista dei detenuti",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 20,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una vecchia chiave arruginita",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 188,
+        "itypeId": 1,
+        "name": "Piccola chiave",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 21,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un disgustoso pezzo di carne. Mangiarla è una pessima idea.\nL'intossicazione alimentare è quasi certa.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 61,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 177,
+        "itypeId": 1,
+        "name": "Carne marcia",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 22,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un breve estratto del diario del Capitano.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 61,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Diario del Capitano 1",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 96,
+        "tpGain": 0
+    },
+    {
+        "id": 23,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un libro che parla dell'antica città chiamata Ma'habre.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 11,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Ma'habre",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 24,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un libro che tratta dell'Antico Dio Gro-goroth.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 12,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Studi su Gro-goroth I",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 25,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Questo libro parla della storia della leggendaria Compagnia\n destinata a diventare i Nuovi Dei.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 13,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "La Compagnia vol. 1",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 26,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pigna. Un giorno, potrebbe diventare un albero.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 189,
+        "itypeId": 1,
+        "name": "Pigna",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 27,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un ramo tagliato. Potrebbe tornare utile\n in alcune situazioni.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 190,
+        "itypeId": 1,
+        "name": "Ramoscello",
+        "note": "<Item Recipe: 5>",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 28,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "20",
+            "type": 3,
+            "variance": 0
+        },
+        "description": "Una fiala piena di liquido blu.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 180,
+        "itypeId": 1,
+        "name": "Fiala blu",
+        "note": "<Synthesis Ingredients>\nitem 95: 2\n</Synthesis Ingredients>",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 29,
+        "animationId": 13,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 4,
+            "formula": "30",
+            "type": 1,
+            "variance": 20
+        },
+        "description": "Una lanterna raccolta da un Sacerdote Oscuro.\nPuoi lanciarla ai nemici per mandarli a fuoco.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 75,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 196,
+        "itypeId": 1,
+        "name": "Lanterna dei Sacerdoti Oscuri",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 30,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "50",
+            "type": 4,
+            "variance": 5
+        },
+        "description": "Una bottiglia di vecchio Whiskey. Ti aiuta a restare sano\nin questa soffocante oscurità.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 208,
+        "itypeId": 1,
+        "name": "Bottiglia di Whiskey",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 31,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un pezzo di pane duro e ammuffito.\nAiuta momentaneamente contro la fame.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 209,
+        "itypeId": 1,
+        "name": "Pane ammuffito",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 32,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un diario scritto dal Capitano a capo dei\ndungeons di Fear and Hunger.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 10,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Diario del Capitano 1",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 96,
+        "tpGain": 0
+    },
+    {
+        "id": 33,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena di muco giallo. Il sapore è molto salato,\nma potrebbe essere commestibile...",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 197,
+        "itypeId": 1,
+        "name": "Fiala gialla",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 34,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena di sangue.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 181,
+        "itypeId": 1,
+        "name": "Fiala di sangue",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 35,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Note scritte da un torturatore.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 19,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 187,
+        "itypeId": 2,
+        "name": "Note del torturatore 1",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 36,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un libro che tratta dell'Antico Dio Alll-mer.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 20,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Studi su Alll-mer I",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 37,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Vecchio pezzo di formaggio. Ha una puzza tremenda.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 210,
+        "itypeId": 1,
+        "name": "Formaggio",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 38,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "30",
+            "type": 4,
+            "variance": 5
+        },
+        "description": "Una bottiglia di birra. Il suo contenuto è torbido.\nTi aiuta a restare sano in questa soffocante oscurità.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 208,
+        "itypeId": 1,
+        "name": "Birra",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 39,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un libro che tratta dell'antica Dea Sylvian.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 21,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Studi su Sylvian I",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 40,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Monaci orientali hanno scritto questo libro.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 22,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 261,
+        "itypeId": 2,
+        "name": "Libro dell'illuminazione'",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 41,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Pasticcio di verdure, fatto con cavolo e carote.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 179,
+        "itypeId": 1,
+        "name": "Pasticcio di verdure",
+        "note": "<Synthesis Ingredients>\nitem 43\nitem 42\nitem 17\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 42,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Carota perfettamente commestibile.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 202,
+        "itypeId": 1,
+        "name": "Carota",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 43,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un cavolo con qualche foglia marcia.\n Perlopiù mangiabile.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 201,
+        "itypeId": 1,
+        "name": "Cavolo",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 44,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un piccolo coltello per scuoiare animali\no altri esseri viventi.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 198,
+        "itypeId": 1,
+        "name": "Coltello per scuoiatura",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 45,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Pelle appartenente ad una guardia.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 195,
+        "itypeId": 1,
+        "name": "Pelle di guardia",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 46,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Pelle appartenente ad un ghoul.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 194,
+        "itypeId": 1,
+        "name": "Pelle di un pallido",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 47,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Il libro contiene istruzioni su come realizzare\ntravestimenti con pelli di  animali.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 24,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Manuale dell'Assassino I",
+        "note": "<Armor Recipe: 5>\n<Armor Recipe: 6>\n<Armor Recipe: 48>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 48,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un mazzo di chiavi.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 188,
+        "itypeId": 1,
+        "name": "Chiavi celle del Terzo piano",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 49,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un libro vuoto, con copertine in legno.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 1,
+        "name": "Finto libro",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 50,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "I grimaldelli si spezzano facilmente. Ci vuole una certa\ntecnica per usarli correttamente.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "Grimaldello",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 51,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una chiave appartenente a Trortur il torturatore.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 188,
+        "itypeId": 1,
+        "name": "Chiave del secondo piano",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 52,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena di liquido bianco.\nFunge da antidoto al veleno.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 90,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 17,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 226,
+        "itypeId": 1,
+        "name": "Fiala bianca",
+        "note": "<Synthesis Ingredients>\nitem 28\nitem 53\n</Synthesis Ingredients>",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 53,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "5",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena di liquido viola.\nLavora lentamente, ma è un veleno potente.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 212,
+        "itypeId": 1,
+        "name": "Fiala viola",
+        "note": "<Synthesis Ingredients>\nitem 28\nitem 54\n</Synthesis Ingredients>",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 54,
+        "animationId": 143,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena di liquido rosso. Estremamente corrosivo.\nPuò essere usata per sciogliere certi oggetti.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 93,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 49,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 181,
+        "itypeId": 1,
+        "name": "Fiala rossa",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 55,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un feto vivo e vegeto. Sembra che stia soffrendo.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 211,
+        "itypeId": 1,
+        "name": "Feto",
+        "note": "<Synthesis Ingredients>\nitem 11\nitem 34\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 56,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Un libro che contiene una ricetta per l'alchimia avanzata.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 30,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Creazione della Vita I",
+        "note": "<Item Recipe: 55>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 57,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena di latte di gnomo di color giallastro.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 197,
+        "itypeId": 1,
+        "name": "Latte di gnomo",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 58,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Sembrano feci e puzzano come feci... \n Ma chi se le porterebbe con se?",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 216,
+        "itypeId": 1,
+        "name": "Terra",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 59,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Valuta comune all'esterno. Potrebbero avere valore \nanche in questi dungeon...",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 217,
+        "itypeId": 1,
+        "name": "Moneta d'argento",
+        "note": "<Not Independent Item>",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 60,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un uovo trovato all'interno del corpo della Cavemother.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 220,
+        "itypeId": 1,
+        "name": "Uovo di gnomo",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 61,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "5",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena di liquido verde. L'odore fa contrarre i tuoi muscoli e intensifica i tuoi sensi.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 21,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 213,
+        "itypeId": 1,
+        "name": "Fiala verde",
+        "note": "<Synthesis Ingredients>\nitem 28\nitem 33\n</Synthesis Ingredients>",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 62,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un ottimo modo per iniziare la giornata - magari un po' pesante per lo stomaco.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 228,
+        "itypeId": 1,
+        "name": "Uova e pancetta",
+        "note": "<Synthesis Ingredients>\nitem 16\nitem 15\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 63,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Uno stufato misto. Non capita tutti i giorni\n di mangiar così bene.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 227,
+        "itypeId": 1,
+        "name": "Stufato misto",
+        "note": "<Synthesis Ingredients>\nitem 42\nitem 64\nitem 65\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 64,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Il colore del pomodoro è un po' pallido,\nchiaramente non ha visto molto sole.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 229,
+        "itypeId": 1,
+        "name": "Pomodoro",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 65,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un fungo essiccato. Durerà un bel po'.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 232,
+        "itypeId": 1,
+        "name": "Fungo essiccato",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 66,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un fungo che emana una luce fioca. L'odore è sgradevole.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 231,
+        "itypeId": 1,
+        "name": "Fungo luminoso",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 67,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "80",
+            "type": 3,
+            "variance": 0
+        },
+        "description": "Una fiala piena di liquido azzurro.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 225,
+        "itypeId": 1,
+        "name": "Fiala azzurra",
+        "note": "<Synthesis Ingredients>\nitem 28: 2\n</Synthesis Ingredients>",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 68,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un pezzo di salame essiccato. È fatto di carne di cavallo.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 230,
+        "itypeId": 1,
+        "name": "Salame",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 69,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "5",
+            "type": 3,
+            "variance": 20
+        },
+        "description": "Una pila di mirtilli abbastanza freschi. Sono molto\nsalutari!",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 233,
+        "itypeId": 1,
+        "name": "Mirtilli",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 70,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "20",
+            "type": 3,
+            "variance": 20
+        },
+        "description": "Torta di mirtilli. Saporita e \n salutare!",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 179,
+        "itypeId": 1,
+        "name": "Torta di mirtilli",
+        "note": "<Synthesis Ingredients>\nitem 69\nitem 17\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 71,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Polvere bianca di nitroglicerina. Mescolata con gli elementi giusti,\npuoi ottenere qualcosa...",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 224,
+        "itypeId": 1,
+        "name": "Polvere di nitroglicerina",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 72,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Se avessi una pipa, potresti fumare.\n I suoi effetti calmano la tua ansia.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 240,
+        "itypeId": 1,
+        "name": "Oppio in polvere",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 73,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Con questa, potresti fumare qualcosa.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 45,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 241,
+        "itypeId": 1,
+        "name": "Pipa",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 74,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un raro prodotto, proveniente dalle oscure terre di Vinland\n.Può essere fumato con una pipa.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 242,
+        "itypeId": 1,
+        "name": "Tabacco",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 75,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una freccia con punta di ferro. Utilizzata specificatamente per il tiro a lungo raggio.\nSe hai un arco, usa [SHIFT] per sparare.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 237,
+        "itypeId": 1,
+        "name": "Freccia",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 76,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pericolosa trappola che causará danni ingenti.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 55,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 248,
+        "itypeId": 1,
+        "name": "Trappola per orsi",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 77,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un diamante che emana una luce fioca.\n Fuori da questi dungeon, varrà una fortuna.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 247,
+        "itypeId": 1,
+        "name": "Diamante",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 78,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "5",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una vial piena di liquido arancione. Solo annusarlo fa salire l'adrenalina...",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 20,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 244,
+        "itypeId": 1,
+        "name": "Fiala arancione",
+        "note": "<Synthesis Ingredients>\nitem 54\nitem 33\n</Synthesis Ingredients>",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 79,
+        "animationId": 23,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "50",
+            "type": 1,
+            "variance": 20
+        },
+        "description": "Una fiala piena di liquido esplosivo. \nPuò essere usata per rimuovere massi o altre rocce e detriti.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 226,
+        "itypeId": 1,
+        "name": "Fiala esplosiva",
+        "note": "<Synthesis Ingredients>\nitem 11\nitem 71\n</Synthesis Ingredients>",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 2,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 80,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una favola per bambini sul Pocketcat. È il \nprimo capitolo.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 60,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "La storia del Pocketcat I",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 81,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un estratto dal diario del capitano.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 62,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Diario del capitano 2",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 96,
+        "tpGain": 0
+    },
+    {
+        "id": 82,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un estratto dal diario del capitano.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 10,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Diario del capitano 3",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 96,
+        "tpGain": 0
+    },
+    {
+        "id": 83,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un libro sulle insegnamenti del grande\nmago delle santuarie orientali.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 63,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Magia del Sangue e del Fiore I",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 96,
+        "tpGain": 0
+    },
+    {
+        "id": 84,
+        "animationId": 54,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "20",
+            "type": 1,
+            "variance": 20
+        },
+        "description": "Un piccolo sasso.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 16,
+                "value1": 0.7,
+                "value2": 0
+            }
+        ],
+        "hitType": 1,
+        "iconIndex": 249,
+        "itypeId": 1,
+        "name": "Pietra",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 80,
+        "tpGain": 0
+    },
+    {
+        "id": 85,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "2",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Una fiala piena di acqua.\nL'acqua sembra bevibile.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 88,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 180,
+        "itypeId": 1,
+        "name": "Fiala d'acqua",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 86,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pagina strappata da un libro. Racconta del\nCrow Mauler.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 77,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 187,
+        "itypeId": 2,
+        "name": "Pagina strappata",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 96,
+        "tpGain": 0
+    },
+    {
+        "id": 87,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una piuma di falco. Perfettamente adatta per essere usata come penna.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 250,
+        "itypeId": 1,
+        "name": "Piuma",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 88,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pergamena vuota in attesa di qualcuno che vi ci scriva.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 84,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena vuota",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 96,
+        "tpGain": 0
+    },
+    {
+        "id": 89,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Un libro contenente ricette per la classe\nintermedia d'alchimia.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 78,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Alchemillia vol. 3",
+        "note": "<Item Recipe: 79>\n<Item Recipe: 67>\n<Item Recipe: 90>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 90,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "5",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena di liquido marrone.\n'odore fa contrarre i muscoli e intensifica i sensi.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 21,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 20,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 18,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 245,
+        "itypeId": 1,
+        "name": "Fiala marrone",
+        "note": "<Synthesis Ingredients>\nitem 78\nitem 61\n</Synthesis Ingredients>",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 91,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Carne del Salmonsnake. È grassa e ha un buon odore  .",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 253,
+        "itypeId": 1,
+        "name": "Carne di Salmonsnake",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 92,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pelle di lupo. La pelliccia è ruvida, non morbida affatto e ha una texture di pelle.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 259,
+        "itypeId": 1,
+        "name": "Pelliccia di lupo",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 93,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un libro apparentemente normale, molto pesante.\nI copertine sembrano molto vecchie.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 93,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "I passaggi di Ma'habre",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 94,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un'erba verde con un odore amaro. Usata comunementeper curare\nle infezioni strofinandola con l'erba.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 55,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 56,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 264,
+        "itypeId": 1,
+        "name": "Erba verde",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 95,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "10",
+            "type": 3,
+            "variance": 20
+        },
+        "description": "Un'erba blu con un odore dolce.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 265,
+        "itypeId": 1,
+        "name": "Erba blu",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 96,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un ferro rovente per segnare coloro\nche vengono colpiti dalla peste nera.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 266,
+        "itypeId": 1,
+        "name": "Ferro rovente",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 97,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "40",
+            "type": 4,
+            "variance": 5
+        },
+        "description": "Una fiala piena di vino.\nBevilo per calmare i sensi e la paura.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 181,
+        "itypeId": 1,
+        "name": "Fiala di vino",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 98,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Un libro che parla di diverse fobie",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 139,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Libro sulle fobie",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 99,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Pozione miracolosa che afferma di guarire completamente tutti i tuoi malesseri.\nIl liquido è sospettosamente opaca.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 150,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 269,
+        "itypeId": 1,
+        "name": "Pozione di guarigione totale",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 100,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Pozione miracolosa che afferma di ripristinare completamente la tua sanità mentale.\n Il liquido emana un odore terribile",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 150,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 267,
+        "itypeId": 1,
+        "name": "Pozione di sanità",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 101,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Pozione miracolosa che afferma di poter ridare vita a chi l'ha perduta.\nIl colore del liquido ti da la nausea.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 150,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 268,
+        "itypeId": 1,
+        "name": "Pozione di vita",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 102,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti dell'arte del furto e del borseggio.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 70,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena del furto",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 103,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti dell'arte dello scatto e della velocità.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 71,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena dei banditi",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 104,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti dell'arte dello scassinamento.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 72,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena dello scassinatore",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 105,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti dell'arte della scherma e degli attacchi rapidi.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 66,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena dello schermidore",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 106,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti delle tecniche dei contrattacchi.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 67,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena dello spadaccino",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 107,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti dell'arte della guerra.\nUn grande generale saquando è necessaria la guerra difensiva.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 68,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena del generale",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 108,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti della magia del sangue maggiore.\nSegreti che solo gli stregoni più devoti imparano col tempo.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 74,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena degli stregoni",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 109,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti del sacrificio del sangue.\nLa sacra cerimonia del'autolesionismo e della mutilazione.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 75,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena dello stregone oscuro",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 110,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti della divorazione delle carcasse.\nUn'abilità speciale passata tra i selvaggi del Nord.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 78,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena del selvaggio",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 111,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti dell'arceria.\nLe abilità uniche delle armate mongole orientali.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 79,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena della mira",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 112,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti della sete di sangue. Un'abilità tramandata dai feroci guerrieri del Nord.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 80,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena del Berserker",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 113,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara la tecnica Falciata alle gambe.\nUn devastante attacco che richiede grande finezza.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 136,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena della spada lunga",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 114,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 115,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "La superficie della pietra preziosa è liscia\nma sembra essere naturalmente formata.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 273,
+        "itypeId": 1,
+        "name": "Gemma dell'anima",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 116,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "The insides of the gemstone radiate faint blue light\nthat slowly swirl around.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima minore",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 117,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Piccoli semini, morbidi e soffici.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 216,
+        "itypeId": 1,
+        "name": "Semini",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 118,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Del muschio verde e rigido. Ha un odore tenue, ma sembra commestibile.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 275,
+        "itypeId": 1,
+        "name": "Muschio delle caverne",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 119,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "L'oggetto è un cubo antico con ornamenti.\nDecorazioni si avvolgono intorno ad esso.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 276,
+        "itypeId": 1,
+        "name": "Cubo delle profondità",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 120,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pietra preziosa sorprendentemente pesante.\nAl suo interno, una fioca luce blu vortica lentamente.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima del Crow Mauler",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 121,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pietra preziosa sorprendentemente pesante.\nAl suo interno, una fioca luce blu vortica lentamente.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima della Cavemother",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 122,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pietra preziosa sorprendentemente pesante.\nAl suo interno, una fioca luce blu vortica lentamente.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima del Salmonsnake",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 123,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pietra preziosa sorprendentemente pesante.\nAl suo interno, una fioca luce blu vortica lentamente.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima del Vecchio Cavaliere",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 124,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pietra preziosa sorprendentemente pesante.\nAl suo interno, una fioca luce blu vortica lentamente.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima dell'Iron Shakespeare",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 125,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 126,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una delle Grandi Anime che fungono da chiave per l'Ascensione.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima dell'infinito",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 127,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una delle Grandi Anime che fungono da chiave per l'Ascensione.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima della Dominazione",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 128,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una delle Grandi Anime che fungono da chiave per l'Ascensione.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima Illuminata",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 129,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una delle Grandi Anime che fungono da chiave per l'Ascensione.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima Tormentata",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 130,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pietra preziosa sorprendentemente pesante.\nAl suo interno, una fioca luce blu vortica lentamente.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 274,
+        "itypeId": 1,
+        "name": "Anima dell'Antico",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 131,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 132,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "10",
+            "type": 3,
+            "variance": 20
+        },
+        "description": "Un'erba rossa con un odore neutro.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 280,
+        "itypeId": 1,
+        "name": "Erba Rossa",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 133,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Un libro contenente ricette basilari per erbe e piante",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 155,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Alchemillia vol. 1",
+        "note": "<Item Recipe: 134>\n<Item Recipe: 135>\n<Item Recipe: 28>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 134,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 4,
+            "formula": "50",
+            "type": 3,
+            "variance": 20
+        },
+        "description": "Una miscela di erbe che è particolarmente potente.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 295,
+        "itypeId": 1,
+        "name": "Miscuglio di erba rossa e blu",
+        "note": "<Synthesis Ingredients>\nitem 95\nitem 132\n</Synthesis Ingredients>",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 135,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 4,
+            "formula": "10",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un potente miscuglio di erbe..",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 17,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 55,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 56,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 90,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 296,
+        "itypeId": 1,
+        "name": "Miscuglio di erba rossa e verde",
+        "note": "<Synthesis Ingredients>\nitem 94\nitem 132\n</Synthesis Ingredients>",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 136,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Un compendio delle conoscenze della scienza medica..",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 156,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Anatomia",
+        "note": "<Item Recipe: 8>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 137,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Questo libro racconta la storia della leggendaria compagnia\nche sarebbe nota in questo periodo come i Nuovi Dei.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 157,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "La Compagnia vol. 2",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 138,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Questo libro racconta la storia della leggendaria compagnia\nche sarebbe nota in questo periodo come i Nuovi Dei.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 158,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "La Compagnia vol. 2 (Originale)",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 139,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Questo libro racconta la storia della leggendaria compagnia\nche sarebbe nota in questo periodo come i Nuovi Dei.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 159,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "La Compagnia vol. 1 (Originale)",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 140,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un vecchio segaossa arrugginito. Puoi solo immaginare la crudeltà che ha visto.\nEfficace contro le infezioni.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 80,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 169,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 281,
+        "itypeId": 1,
+        "name": "Segaossa",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 141,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un braccio tagliato recentemente.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 282,
+        "itypeId": 1,
+        "name": "Braccio",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 142,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una gamba tagliata recentemente.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 283,
+        "itypeId": 1,
+        "name": "Gamba",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 143,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una gamba scheletrica che è stata tagliata.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 285,
+        "itypeId": 1,
+        "name": "Gamba scheletrica",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 144,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un braccio che è ancora relativamente fresco.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 287,
+        "itypeId": 1,
+        "name": "Braccio bluastro",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 145,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una gamba che è ancora relativamente fresca.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 303,
+        "itypeId": 1,
+        "name": "Gamba bluastro",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 146,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 147,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un cubo antico con decorazioni e ornamenti che si intrecciano intorno.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 174,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 276,
+        "itypeId": 1,
+        "name": "Cubo delle profondità",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 148,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una grande chiave con un emblema di un corvo inciso.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 277,
+        "itypeId": 1,
+        "name": "Chiave del Corvo",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 149,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un talismano di carta con segni che provengono\ndai Santuari Orientali.",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 86,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 94,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 234,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 278,
+        "itypeId": 1,
+        "name": "Talismano purificativo",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 150,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un enorme braccio che ti è stato dato dal Senzanome.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 279,
+        "itypeId": 1,
+        "name": "Braccio del Senzanome",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 151,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pelliccia di un Signore delle Mosche. La pelliccia è ruvida e sporca.\nHa un odore ripugnante.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 288,
+        "itypeId": 1,
+        "name": "Pelliccia del Signore delle Mosche",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 152,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un pezzo di carne crude. Chissà se è sicuro mangiarla senza cuocerla...",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 61,
+                "value1": 0.8,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 289,
+        "itypeId": 1,
+        "name": "Carne cruda",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 153,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un pezzo di carne grigliata. Soddisferà sicuramente la tua fame.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 290,
+        "itypeId": 1,
+        "name": "Carne grigliata",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 154,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Carne del salmonsnake. È grassa e ha un odore delizioso.\nÈ stata grigliata.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 291,
+        "itypeId": 1,
+        "name": "Carne grigliata del salmonsnake",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 155,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Libro che riepiloga gli studi sul tema della creazione della vita.\nIl libro è stato scritto dal nuovo dio, Valteil.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 183,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Dottrina naturale I",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 156,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Libro che riepiloga gli studi sul tema della creazione della vita.\nIl libro è stato scritto dal nuovo dio, Valteil.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 184,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Dottrina naturale II",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 157,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un diario che apparteneva a un guardiano anonimo\nassegnato alla guardia dei dungeons di Fear & Hunger.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 187,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Diario di una guardia",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 96,
+        "tpGain": 0
+    },
+    {
+        "id": 158,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 159,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Uno scroll che ti insegna i segreti della piromanzia.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 199,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena della piromanzia",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 160,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Unpergamenal che ti insegna i segreti della combustione.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 200,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena della combustione",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 161,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pergamena sugli insegnamenti di Alll-mer.\nLa pergamena ti insegna come camminare sull'acqua.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 188,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena del cammino sull'acqua",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 5,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 162,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un vecchio foglio pieno di simboli e disegni.\nSembra essere una mappa di qualche tipo...",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 194,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 294,
+        "itypeId": 2,
+        "name": "Mappa #1",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 163,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un vecchio foglio pieno di simboli e disegni.\nSembra essere una mappa di qualche tipo...",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 195,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 294,
+        "itypeId": 2,
+        "name": "Mappa #2",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 164,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pergamena sugli insegnamenti di Alll-mer.\nLa pergamena ti insegna i segreti della transmutazione.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 189,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena della transmutazione",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 165,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 166,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "80",
+            "type": 4,
+            "variance": 20
+        },
+        "description": "Un elisir che si dice possa restituire la sanità mentale.\nL'odore sembra di origine orientale.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 267,
+        "itypeId": 1,
+        "name": "Elisir della sanità",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 167,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "80",
+            "type": 3,
+            "variance": 20
+        },
+        "description": "Un elisir che si dice possa restituire la tua vitalità.\nL'odore sembra di origine orientale.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 269,
+        "itypeId": 1,
+        "name": "Elisir del corpo",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 168,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una zuppa di funghi che è sicuramente in grado di tenere a bada la fame.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 227,
+        "itypeId": 1,
+        "name": "Zuppa di funghi",
+        "note": "<Synthesis Ingredients>\nitem 65: 3\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 169,
+        "animationId": 192,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "100",
+            "type": 1,
+            "variance": 20
+        },
+        "description": "Un coltellino leggero progettato per essere lanciato.",
+        "effects": [],
+        "hitType": 1,
+        "iconIndex": 315,
+        "itypeId": 1,
+        "name": "Coltellino da lancio",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 170,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Istruzioni su come costruire il tuo personalissimo Maialino Pigna.\n",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 222,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 187,
+        "itypeId": 2,
+        "name": "Istruzioni per il Maialino Pigna",
+        "note": "<Armor Recipe: 32>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 171,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "5",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una fiala piena di un leggero veleno che si dice uccida\ni parassiti e i vermi all'interno del corpo dell'ospite.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 145,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 61,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 99,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 244,
+        "itypeId": 1,
+        "name": "Succo di vermi",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 172,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 173,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara una semplice tecnica di piromanzia",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 199,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena della piromanzia",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 174,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti della globo nero.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 150,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena delle arti oscure.",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 175,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti dei Sussurri curativi.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 151,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena della chiesa della guarigione",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 176,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti dei Sussurri amorosi.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 238,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena della chiesa di Sylvian",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 177,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Impara i segreti del Verme ago.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 122,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 212,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 251,
+        "itypeId": 2,
+        "name": "Pergamena dei vermi",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 178,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una favola per bambini sul Pocketcat. È il \nsecondo capitolo.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 228,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "La Storia del Pocketcat II",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 179,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un antica e decorata chiave. È detta aprire il vecchio passaggio della Città.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 312,
+        "itypeId": 1,
+        "name": "Chiave del vecchio passaggio",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 180,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un antica e decorata chiave. È detta aprire il passaggio del re nella piazza centrale.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 311,
+        "itypeId": 1,
+        "name": "Chiave del passaggio del re",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 181,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una lettera scritta dal principe ereditiero Ludwig Buckman.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 232,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 187,
+        "itypeId": 2,
+        "name": "Lettera di Buckman",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 182,
+        "animationId": 221,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 3,
+            "formula": "30",
+            "type": 1,
+            "variance": 20
+        },
+        "description": "Piccoli dardi avvelenati progettati per essere lanciati.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 1,
+        "iconIndex": 309,
+        "itypeId": 1,
+        "name": "Dardo da lancio",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 183,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "100",
+            "type": 4,
+            "variance": 20
+        },
+        "description": "Polvere di un demone blu trovato nella città degli dei.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 244,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 224,
+        "itypeId": 1,
+        "name": "Polvere di demone blu",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 184,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una raccolta di pagine di un libro. Incomprensibili senza contesto.\nMenzionano la vita artificialmente creata...",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 119,
+        "itypeId": 1,
+        "name": "Pagine del libro I",
+        "note": "<Item Recipe: 187>",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 185,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una raccolta di pagine di un libro. Incomprensibili senza contesto.\nMenzionano la magia di Sylvian...",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 119,
+        "itypeId": 1,
+        "name": "Pagine del libro II",
+        "note": "<Item Recipe: 187>",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 186,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una raccolta di pagine di un libro. Incomprensibili senza contesto.\nMenzionano il seme della distruzione...",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 119,
+        "itypeId": 1,
+        "name": "Pagine del libro III",
+        "note": "<Item Recipe: 187>",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 187,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Un libro che descrive i insegnamenti di Sylvian e la sua magia dell'amore chiamata 'Seme del demone'.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 54,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 245,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "Creazione della vita II",
+        "note": "<Synthesis Ingredients>\nitem 184\nitem 185\nitem 186\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 188,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un vecchio foglio pieno di simboli e disegni.\nSembra essere una mappa di qualche tipo...",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 246,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 294,
+        "itypeId": 2,
+        "name": "Mappa #3",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 189,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una corona d'oro decorata con smeraldi.\nDeve valere una fortuna.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 89,
+        "itypeId": 1,
+        "name": "Corona del re",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 190,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 0
+        },
+        "description": "Una pagina che descrive i insegnamenti di Sylvian e la sua magia dell'amore chiamata 'Rinascita dell'Amato'.",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 290,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 247,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 90,
+        "itypeId": 2,
+        "name": "Istruzioni della Rinascita",
+        "note": "<Synthesis Ingredients>\nitem 191\nitem 192\nitem 193\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 191,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pagina strappata con istruzioni di occultismo nascosto...",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 91,
+        "itypeId": 1,
+        "name": "Istruzioni strappate I",
+        "note": "<Item Recipe: 190>",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 192,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pagina strappata con istruzioni di occultismo nascosto...",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 92,
+        "itypeId": 1,
+        "name": "Istruzioni strappate II",
+        "note": "<Item Recipe: 190>",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 193,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una pagina strappata con istruzioni di occultismo nascosto...",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 93,
+        "itypeId": 1,
+        "name": "Istruzioni strappate III",
+        "note": "<Item Recipe: 190>",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 194,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Erba gatta avvolta in un involucro decorativo.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 85,
+        "itypeId": 1,
+        "name": "Erba gatta",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 195,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un libro di carta sottile pieno di uomini e donne in pose discutibili.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 82,
+        "itypeId": 1,
+        "name": "Rivista sconcia",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 196,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una rosa che si è appassita e seccata nell'oscurità.\nTuttora conserva la sua bellezza.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 84,
+        "itypeId": 1,
+        "name": "Rosa appassita",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 197,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un giocattolo per bambini che assomiglia a un orso seduto.\nIl giocattolo è riempito di piume.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 83,
+        "itypeId": 1,
+        "name": "Pupazzo",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 198,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Strisce di carne, cruda.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 289,
+        "itypeId": 1,
+        "name": "Strisce di carne",
+        "note": "<Synthesis Ingredients>\nitem 15\nitem 16\nitem 17\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 199,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una lunga e resistente corda.\nPotrebbe facilmente reggere il tuo peso.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 317,
+        "itypeId": 1,
+        "name": "Corda",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 200,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 201,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Moneta portafortuna, per situazioni disperate.\nTieni premuto [SHIFT] mentre scegli testa o croce.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 318,
+        "itypeId": 1,
+        "name": "Moneta portafortuna",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 202,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 312,
+        "itypeId": 1,
+        "name": "Chiave del deposito",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 203,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un libro su I Cavalieri della Penitenza della Città del Vaticano.",
+        "effects": [
+            {
+                "code": 44,
+                "dataId": 263,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 121,
+        "itypeId": 2,
+        "name": "I Cavalieri della Penitenza",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 204,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una radice che cresce in tutto il continente europeo.\nIl sapore è piuttosto insipido.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 95,
+        "itypeId": 1,
+        "name": "Radicchio",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 205,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 206,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Una radice che cresce in tutto il continente europeo.\nIl sapore è disgustoso.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 0.8,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 105,
+        "itypeId": 1,
+        "name": "Radicchio marcio",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 207,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Pasticcio di carne, sembra sia scaduto da un po'...",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 61,
+                "value1": 0.95,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 0.8,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 106,
+        "itypeId": 1,
+        "name": "Pasticcio di carne marcio",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 208,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un uovo. Che appartenga a un uccello o a un rettile è difficile dirlo.\nL'unica certezza è che è marcio.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 0.8,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 108,
+        "itypeId": 1,
+        "name": "Uovo marcio",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 209,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Pasticcio di verdure, fatto con cavolo e carote.Sì Sembra sia scaduto da un po'...",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 53,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 33,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 0.8,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 106,
+        "itypeId": 1,
+        "name": "Pasticcio di verdure marcio",
+        "note": "<Synthesis Ingredients>\nitem 43\nitem 42\nitem 17\n</Synthesis Ingredients>",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 210,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Un cavolo marcio. È molle e rivoltante...",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 52,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 32,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 0.8,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 110,
+        "itypeId": 1,
+        "name": "Cavolo marcio",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 211,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "Il pomodoro è rimasto al buio per troppo tempo. È completamente marcio.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 0.8,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 111,
+        "itypeId": 1,
+        "name": "Pomodoro marcio",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 212,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "La carota è rimasta al buio per troppo tempo. È completamente marcia.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 0.8,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 109,
+        "itypeId": 1,
+        "name": "Carota marcia",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 213,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "5",
+            "type": 3,
+            "variance": 20
+        },
+        "description": "I mirtilli stan cadendo a pezzi. Sono diventate cattive da un po' di tempo.",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 51,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 44,
+                "dataId": 31,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 21,
+                "dataId": 17,
+                "value1": 0.8,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 107,
+        "itypeId": 1,
+        "name": "Mirtilli marci",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 214,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 215,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 216,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 217,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 218,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 219,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 220,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    }
+]
